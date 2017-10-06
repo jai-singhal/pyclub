@@ -1,6 +1,6 @@
 ## Introduction
 
-#### Hello Pyclub. Welcome to official Python Django club repository.
+#### Hello Pyclub. Welcome to official Python Django club Github repository.
 On every wednesday, this repository will be updated, you can check the code here.
 
 ## Installation guide
