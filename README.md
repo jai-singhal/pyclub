@@ -43,7 +43,7 @@ On every wednesday, this repository will be updated, you can check the code here
    
     For Windows: 
     `
-    .\scrits\activate
+    .\scripts\activate
     `
 
 5. Install required packages(pip for windows else pip3)
